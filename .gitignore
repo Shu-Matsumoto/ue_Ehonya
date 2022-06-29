@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+svkey/id_ed25519.txt
+Source/Ehonyasan/DataStorePlace.h
